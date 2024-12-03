@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Padaria_Pão_PrecisoFINAL/1.0.0": {
+        "runtime": {
+          "Padaria_Pão_PrecisoFINAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Padaria_Pão_PrecisoFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

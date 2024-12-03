@@ -1,0 +1,6 @@
+Nome: Café, Fabricado em: 2024-11-30, Vence em: 2024-12-30, Quantidade: 30, Preço: R$ 0,50, Dias de Validade: 30
+Nome: Leite, Fabricado em: 2024-12-01, Vence em: 2025-03-01, Quantidade: 20, Preço: R$ 3,50, Dias de Validade: 90
+Nome: Pão doce, Fabricado em: 2024-11-22, Vence em: 2024-12-02, Quantidade: 20, Preço: R$ 2,50, Dias de Validade: 10
+Nome: Pão Francês, Fabricado em: 2024-11-22, Vence em: 2024-12-02, Quantidade: 10, Preço: R$ 1,50, Dias de Validade: 10
+Nome: Pão francÊs, Fabricado em: 2024-11-11, Vence em: 2024-11-21, Quantidade: 25, Preço: R$ 1,50, Dias de Validade: 10
+Nome: Pão sovado, Fabricado em: 2024-11-22, Vence em: 2024-12-07, Quantidade: 9, Preço: R$ 5,00, Dias de Validade: 15

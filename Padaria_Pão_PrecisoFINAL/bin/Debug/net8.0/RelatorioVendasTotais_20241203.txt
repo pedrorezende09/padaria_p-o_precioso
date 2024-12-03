@@ -1,0 +1,8 @@
+Relatório gerado em: 2024-12-03 01:52:14
+------------------------------------------------------------
+Data e Hora: 2024-12-03 01:50:07, Produto: Pão francÊs, Quantidade: 5, Valor: R$ 7,50, Forma de Pagamento: Dinheiro
+Data e Hora: 2024-12-03 01:50:23, Produto: Café, Quantidade: 2, Valor: R$ 1,00, Forma de Pagamento: Dinheiro
+Data e Hora: 2024-12-03 01:50:47, Produto: Leite, Quantidade: 5, Valor: R$ 17,50, Forma de Pagamento: Cartão
+Data e Hora: 2024-12-03 01:50:58, Produto: Pão doce, Quantidade: 1, Valor: R$ 2,50, Forma de Pagamento: Dinheiro
+------------------------------------------------------------
+Total do Caixa: R$ 28,50

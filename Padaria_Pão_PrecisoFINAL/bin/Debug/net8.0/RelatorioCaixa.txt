@@ -1,0 +1,2 @@
+Produto: Pão doce, Quantidade: 10, Valor: R$ 25,00, Forma de Pagamento: Dinheiro
+Total do Caixa: R$ 25,00

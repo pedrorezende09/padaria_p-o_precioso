@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\bin\Debug\net8.0\Padaria_Pão_PrecisoFINAL.exe
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\bin\Debug\net8.0\Padaria_Pão_PrecisoFINAL.deps.json
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\bin\Debug\net8.0\Padaria_Pão_PrecisoFINAL.runtimeconfig.json
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\bin\Debug\net8.0\Padaria_Pão_PrecisoFINAL.dll
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\bin\Debug\net8.0\Padaria_Pão_PrecisoFINAL.pdb
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.dll
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\refint\Padaria_Pão_PrecisoFINAL.dll
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.pdb
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\Padaria_Pão_PrecisoFINAL.genruntimeconfig.cache
+C:\Users\pedro\source\repos\Padaria_Pão_PrecisoFINAL\Padaria_Pão_PrecisoFINAL\obj\Debug\net8.0\ref\Padaria_Pão_PrecisoFINAL.dll

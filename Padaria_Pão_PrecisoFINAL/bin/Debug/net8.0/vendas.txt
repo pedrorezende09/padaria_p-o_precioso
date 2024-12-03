@@ -1,0 +1,21 @@
+Data: 2024-12-03 01:26:06, Produto: Café, Quantidade: 10, Forma de Pagamento: Dinheiro, Valor Total: R$ 5,00
+Data: 2024-12-03 01:26:06, Produto: Café, Quantidade: 10, Forma de Pagamento: Dinheiro, Valor Total: R$ 5,00
+Data: 2024-12-03 01:26:16, Produto: Pão francÊs, Quantidade: 5, Forma de Pagamento: Cartão, Valor Total: R$ 7,50
+Data: 2024-12-03 01:40:12, Produto: Pão sovado, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 25,00
+Data: 2024-12-03 01:40:50, Produto: Pão sovado, Quantidade: 3, Forma de Pagamento: Dinheiro, Valor Total: R$ 15,00
+Data: 2024-12-03 01:40:50, Produto: Pão sovado, Quantidade: 3, Forma de Pagamento: Dinheiro, Valor Total: R$ 15,00
+Data: 2024-12-03 01:41:09, Produto: Café, Quantidade: 10, Forma de Pagamento: Cartão, Valor Total: R$ 5,00
+Data: 2024-12-03 01:47:56, Produto: Café, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 2,50
+Data: 2024-12-03 01:47:56, Produto: Café, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 2,50
+Data: 2024-12-03 01:48:06, Produto: Pão doce, Quantidade: 5, Forma de Pagamento: Cartão, Valor Total: R$ 12,50
+Data: 2024-12-03 01:50:07, Produto: Pão francÊs, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 7,50
+Data: 2024-12-03 01:50:07, Produto: Pão francÊs, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 7,50
+Data: 2024-12-03 01:50:23, Produto: Café, Quantidade: 2, Forma de Pagamento: Dinheiro, Valor Total: R$ 1,00
+Data: 2024-12-03 01:50:07, Produto: Pão francÊs, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 7,50
+Data: 2024-12-03 01:50:23, Produto: Café, Quantidade: 2, Forma de Pagamento: Dinheiro, Valor Total: R$ 1,00
+Data: 2024-12-03 01:50:47, Produto: Leite, Quantidade: 5, Forma de Pagamento: Cartão, Valor Total: R$ 17,50
+Data: 2024-12-03 01:50:07, Produto: Pão francÊs, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 7,50
+Data: 2024-12-03 01:50:23, Produto: Café, Quantidade: 2, Forma de Pagamento: Dinheiro, Valor Total: R$ 1,00
+Data: 2024-12-03 01:50:47, Produto: Leite, Quantidade: 5, Forma de Pagamento: Cartão, Valor Total: R$ 17,50
+Data: 2024-12-03 01:50:58, Produto: Pão doce, Quantidade: 1, Forma de Pagamento: Dinheiro, Valor Total: R$ 2,50
+Data: 2024-12-03 01:54:29, Produto: Pão doce, Quantidade: 5, Forma de Pagamento: Dinheiro, Valor Total: R$ 12,50
